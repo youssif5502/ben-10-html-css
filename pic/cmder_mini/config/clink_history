@@ -1,0 +1,10 @@
+|CTAG_1782432277_41583265_19680_0
+test
+|kdir test
+|d test\
+git cl
+|it clone https://github.com/youssif5502/ben-10-html-css.git
+|d test\
+mkdir test
+cd test\
+git clone https://github.com/youssif5502/ben-10-html-css.git
